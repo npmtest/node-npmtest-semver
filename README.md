@@ -1,4 +1,7 @@
-# test coverage for  [semver (v5.3.0)](https://github.com/npm/node-semver#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-semver.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-semver) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-semver.svg)](https://travis-ci.org/npmtest/node-npmtest-semver)
+# npmtest-semver
+
+#### test coverage for  [semver (v5.3.0)](https://github.com/npm/node-semver#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-semver.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-semver) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-semver.svg)](https://travis-ci.org/npmtest/node-npmtest-semver)
+
 #### The semantic version parser used by npm.
 
 [![NPM](https://nodei.co/npm/semver.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/semver)
@@ -9,9 +12,15 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-semver/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-semver/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-semver/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-semver/tree/gh-pages/build)|
 
+- [https://npmtest.github.io/node-npmtest-semver/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-semver/build/coverage.html/index.html)
+
 [![istanbul-coverage](https://npmtest.github.io/node-npmtest-semver/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-semver/build/coverage.html/index.html)
 
+- [https://npmtest.github.io/node-npmtest-semver/build/test-report.html](https://npmtest.github.io/node-npmtest-semver/build/test-report.html)
+
 [![test-report](https://npmtest.github.io/node-npmtest-semver/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-semver/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-semver/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-semver/build/apidoc.html)
 
 [![apidoc](https://npmdoc.github.io/node-npmdoc-semver/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-semver/build/apidoc.html)
 
