@@ -1,6 +1,6 @@
 # npmtest-semver
 
-#### test coverage for  [semver (v5.3.0)](https://github.com/npm/node-semver#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-semver.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-semver) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-semver.svg)](https://travis-ci.org/npmtest/node-npmtest-semver)
+#### basic test coverage for  [semver (v5.3.0)](https://github.com/npm/node-semver#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-semver.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-semver) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-semver.svg)](https://travis-ci.org/npmtest/node-npmtest-semver)
 
 #### The semantic version parser used by npm.
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-semver/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-semver/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-semver/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-semver/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-semver/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-semver/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-semver/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-semver/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-semver/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-semver/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-semver/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-semver/build/coverage.html/index.html)
 
